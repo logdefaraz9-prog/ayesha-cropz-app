@@ -1,0 +1,24 @@
+{
+  "name": "ayesha-cropz-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ayesha Cropz mobile app (Android and iOS) built with Capacitor",
+  "scripts": {
+    "assets": "capacitor-assets generate",
+    "sync": "cap sync",
+    "android": "cap open android",
+    "ios": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/share": "latest",
+    "@capacitor/ios": "latest",
+    "@capacitor/splash-screen": "latest",
+    "@capacitor/status-bar": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "latest",
+    "@capacitor/cli": "latest"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "appId": "com.ayeshacropz.app",
+  "appName": "Ayesha Cropz",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1500, "backgroundColor": "#FBF7F0", "showSpinner": false }
+  }
+}
