@@ -1,0 +1,14 @@
+{
+  "name": "Ayesha Cropz",
+  "short_name": "Ayesha Cropz",
+  "description": "Ayesha Soda, poultry hatchery, travel services and CSC e-Seva in Mhasla, Raigad.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF7F0",
+  "theme_color": "#FBF7F0",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
